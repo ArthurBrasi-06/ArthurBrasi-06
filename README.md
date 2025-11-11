@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Arthur Brasi de Paschoa  
+#  Olá, eu sou o Arthur Brasi de Paschoa  
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma (FATEC)**  
 💡 Apaixonado por **IA, inovação** e **soluções que conectam pessoas e oportunidades**  
