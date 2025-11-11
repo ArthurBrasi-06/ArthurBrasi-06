@@ -16,9 +16,9 @@
 ---
 
 ###   🧠 Projetos em Destaque
-- - 🧾 [**Currículo Vitae Online**](https://github.com/ArthurBrasi-06/projectsfatec3-CurriculoVitae) — HTML e CSS, design responsivo  
-💳 [**FinTrack (em desenvolvimento)**](https://github.com/ArthurBrasi-06/fintrack) — App de finanças com IA  
-  - 🌍 [**DevImpact**](https://github.com/ArthurBrasi-06/devimpact) — Plataforma de apoio a assistentes sociais e cidadãos em vulnerabilidade  
+ - 🧾 [**Currículo Vitae Online**](https://github.com/ArthurBrasi-06/projectsfatec3-CurriculoVitae) — HTML e CSS, design responsivo  
+ - 💳 [**FinTrack (em desenvolvimento)**](https://github.com/ArthurBrasi-06/fintrack) — App de finanças com IA 
+ - 🌍 [**DevImpact**](https://github.com/ArthurBrasi-06/devimpact) — Plataforma de apoio a assistentes sociais e cidadãos em vulnerabilidade  
 
 
 ---
