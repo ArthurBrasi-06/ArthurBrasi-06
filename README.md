@@ -15,10 +15,11 @@
 
 ---
 
-### 🧠 Projetos em Destaque
-- 🧾 [**Currículo Vitae Online**](https://github.com/ArthurBrasi-06/projectsfatec3-CurriculoVitae) — HTML e CSS, design responsivo  
-- 💳 [**FinTrack (em desenvolvimento)**](https://github.com/ArthurBrasi-06/fintrack) — App de finanças com IA  
-- 🎟️ [**VEM**](https://github.com/ArthurBrasi-06/vem) — Plataforma de freelancers para eventos  
+###   🧠 Projetos em Destaque
+- - 🧾 [**Currículo Vitae Online**](https://github.com/ArthurBrasi-06/projectsfatec3-CurriculoVitae) — HTML e CSS, design responsivo  
+💳 [**FinTrack (em desenvolvimento)**](https://github.com/ArthurBrasi-06/fintrack) — App de finanças com IA  
+  - 🌍 [**DevImpact**](https://github.com/ArthurBrasi-06/devimpact) — Plataforma de apoio a assistentes sociais e cidadãos em vulnerabilidade  
+
 
 ---
 
@@ -29,4 +30,4 @@
 ---
 
 📫 **Contato:** [brasiarthur10@gmail.com](mailto:brasiarthur10@gmail.com)  
-🌐 [LinkedIn](https://linkedin.com/in/arthurbrasi)
+🌐 [LinkedIn] (https://www.linkedin.com/in/arthur-brasi-43ba38315/)
