@@ -55,7 +55,7 @@ Atualmente curso **Desenvolvimento de Software Multiplataforma (FATEC)** e **ADS
 
 | Projeto | Descrição | Tech |
 | :--- | :--- | :--- |
-| **🤖 LegisClara AI** | IA vencedora do Hackathon OpenAI Brasília. Conecta cidadãos às legislações do Senado e da Câmara. | IA, Python, Automações |
+| **🤖 LegisClara AI** | IA vencedora do Hackathon "Devs de Impacto". Conecta cidadãos às legislações do Senado e da Câmara. | IA, Python, Automações |
 | **🌍 DevImpact** | Plataforma de apoio social e cidadania digital. | Full Stack |
 | **🚀 VEM (Startup)** | Produto para gestão e contratação de freelancers para eventos. | JS, SQL, automações 
 
