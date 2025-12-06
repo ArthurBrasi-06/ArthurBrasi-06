@@ -62,9 +62,6 @@ Atualmente curso **Desenvolvimento de Software Multiplataforma (FATEC)** e **ADS
 ---
 
 ## 📫 Contato
----
-
-## 📫 Contato
 
 <div align="center">
 
