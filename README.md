@@ -14,7 +14,7 @@
 
 Sou o **Arthur Brasi**, apaixonado por tecnologia, produtos digitais e Inteligência Artificial aplicada à resolução de problemas reais.
 
-Atualmente curso **Desenvolvimento de Software Multiplataforma (FATEC)** e **ADS (UNINOVE)**, enquanto construo projetos que unem **IA, impacto social e inovação**.
+Atualmente curso **Desenvolvimento de Software Multiplataforma (FATEC)**, enquanto construo projetos que unem **IA, impacto social e inovação**.
 
 ---
 
